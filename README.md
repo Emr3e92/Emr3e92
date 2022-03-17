@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GHstats](https://github-readme-stats.vercel.app/api?username=Emr3e92&show_icons=true)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 ### My Daily Routine :
