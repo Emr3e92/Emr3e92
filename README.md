@@ -5,7 +5,7 @@
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Emr3e92&show_icons=true)
 
 
-
+<!--START_SECTION:activity-->
 
 
 Here are some ideas to get you started:
