@@ -11,3 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### My Daily Routine :
+
+```mermaid
+  graph TD;
+      Code-->Eat;
+      Eat-->Sleep;
+      Sleep-->Code;
+```
