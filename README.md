@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### &#11088; GitHub Stats ~ ![GHstats](https://github-readme-stats.vercel.app/api?username=Emr3e92&show_icons=true)
+
+### &#11088; GitHub Stats ~ 
+![GHstats](https://github-readme-stats.vercel.app/api?username=Emr3e92&show_icons=true)
 
 
 Here are some ideas to get you started:
